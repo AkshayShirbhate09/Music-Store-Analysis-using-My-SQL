@@ -1,8 +1,9 @@
-  # 🎶 𝗠𝘂𝘀𝗶𝗰 𝗦𝘁𝗼𝗿𝗲 𝗗𝗮𝘁𝗮 𝘄𝗶𝘁𝗵 𝗠𝘆𝗦𝗤𝗟 🎶
-
+  # 🎶 MUSIC STORE DATA ANALYSIS WITH MYSQL 🎶
 I'm thrilled to share the journey of my latest project, where I explored music store data using MySQL to uncover fascinating insights. 🚀
 
-🎯 𝗢𝗯𝗷𝗲𝗰𝘁𝗶𝘃𝗲: My aim was to analyze the music store dataset and derive meaningful conclusions to inform strategic decisions and drive business growth.
+
+🎯 Objective: My aim was to analyze the music store dataset and derive meaningful conclusions to inform strategic decisions and drive business growth.
+
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 🛠️ 𝗔𝗽𝗽𝗿𝗼𝗮𝗰𝗵: I divided the analysis into three levels - Easy, Moderate, and Advanced, each posing unique questions and challenges:
@@ -17,9 +18,11 @@ I'm thrilled to share the journey of my latest project, where I explored music s
 🔍 𝗖𝗼𝗺𝗺𝗮𝗻𝗱𝘀 𝗨𝘀𝗲𝗱: Throughout the analysis, I utilized various SQL commands such as:
                  
   SUM, COUNT, AVG, JOIN, GROUP BY, ORDER BY, LIMIT, CTE, RECURSIVE CTE, ROW_NUMBER
+  
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 📊 𝗙𝗶𝗻𝗱𝗶𝗻𝗴𝘀: Through meticulous analysis, I uncovered trends such as the most popular genres in various countries, top-spending customers per country, and much more.
+
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 💡 𝗛𝗼𝘄 𝗜𝘁 𝗛𝗲𝗹𝗽𝘀 𝘁𝗵𝗲 𝗦𝘁𝗼𝗿𝗲:
