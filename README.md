@@ -4,6 +4,7 @@ I'm thrilled to share the journey of my latest project, where I explored music s
 
 🎯 𝗢𝗯𝗷𝗲𝗰𝘁𝗶𝘃𝗲: My aim was to analyze the music store dataset and derive meaningful conclusions to inform strategic decisions and drive business growth.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 🛠️ 𝗔𝗽𝗽𝗿𝗼𝗮𝗰𝗵: I divided the analysis into three levels - Easy, Moderate, and Advanced, each posing unique questions and challenges:
 
 - 𝗘𝗮𝘀𝘆 𝗟𝗲𝘃𝗲𝗹: From identifying the senior-most employee to determining the best customer, I navigated through fundamental queries to establish foundational insights.
@@ -14,16 +15,8 @@ I'm thrilled to share the journey of my latest project, where I explored music s
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 🔍 𝗖𝗼𝗺𝗺𝗮𝗻𝗱𝘀 𝗨𝘀𝗲𝗱: Throughout the analysis, I utilized various SQL commands such as:
-  ·        SUM,
-  ·        COUNT,
-  ·        AVG,
-  ·        JOIN ,
-  ·        GROUP BY ,
-  ·        ORDER BY,
-  ·        LIMIT,
-  ·        CTE,
-  ·        RECURSIVE CTE,
-  ·        ROW_NUMBER
+                 
+  SUM, COUNT, AVG, JOIN, GROUP BY, ORDER BY, LIMIT, CTE, RECURSIVE CTE, ROW_NUMBER
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 📊 𝗙𝗶𝗻𝗱𝗶𝗻𝗴𝘀: Through meticulous analysis, I uncovered trends such as the most popular genres in various countries, top-spending customers per country, and much more.
