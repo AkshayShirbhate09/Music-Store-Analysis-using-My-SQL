@@ -1,4 +1,6 @@
   # 🎶 MUSIC STORE DATA ANALYSIS WITH MYSQL 🎶
+![Alt text](https://dr-guitar-music.myshopify.com/cdn/shop/t/14/assets/slide_2.jpg)
+
 I'm thrilled to share the journey of my latest project, where I explored music store data using MySQL to uncover fascinating insights. 🚀
 
 
